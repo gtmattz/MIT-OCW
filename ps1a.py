@@ -1,5 +1,5 @@
 ##Matt Zimmerman
-##MIT OCW 6.00SC, Lecture 4 Problem Set 1 Assignment problem 1
+##MIT OCW 6.00SC, Lecture 4 Problem Set 1 Assignment problem a
 ##ps1a.py
 ##Solving for Minimum Payment
 
